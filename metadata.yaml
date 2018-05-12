@@ -1,0 +1,28 @@
+_repo: An-Essay-on-the-Shaking-Palsy_23777
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Parkinson, James
+    birthdate: 1755
+    deathdate: 1824
+    gutenberg_agent_id: '26025'
+    url: http://www.gutenberg.org/2009/agents/26025
+    wikipedia: http://en.wikipedia.org/wiki/James_Parkinson
+description: ''
+gutenberg_bookshelf: Medicine
+gutenberg_issued: '2007-12-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23777'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'RC'
+- !lcsh 'Parkinson''s disease'
+title: An Essay on the Shaking Palsy
+url: http://www.gutenberg.org/ebooks/23777
